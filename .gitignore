@@ -1,0 +1,16 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/labaa/v17/.wsuo
+/.vs/labaa/v17/Browse.VC.db-shm
+/.vs/labaa/v17/Browse.VC.db
+/.vs/labaa/v17/Browse.VC.opendb
+/.vs/labaa/FileContentIndex/3400fe29-d8b5-4d86-84ab-1e5fac418110.vsidx
+/.vs/labaa/v17/Browse.VC.db-wal
+/.vs/labaa/v17/DocumentLayout.json
+/.vs/labaa/FileContentIndex/0d768262-70c9-4476-a3a0-052d0c6e030f.vsidx
+/.vs/labaa/FileContentIndex/d7ed4752-2ec0-4239-9597-eff9a0fa2f9e.vsidx
