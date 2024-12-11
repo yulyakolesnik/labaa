@@ -14,5 +14,5 @@ int main()
 	unsigned char shifted_y = y >> 4;
 	std::cout << "Исходное значения: " << "x = " << (int)x << ", y = " << (int)y << std::endl;
 	std::cout << "Преобразованные значения: " << "x = " << (int)shifted_x << ", y = " << (int)shifted_y << std::endl;//ee
-	return 0;
+	return 0;//зашла в кооод
 
