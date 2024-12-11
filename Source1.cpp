@@ -8,9 +8,9 @@ int main()
 	std::cin >> y;
 	x |= (1 << 1);
 	y &= ~(1 << 3);
-	y &= ~(1 << 4);
+	y &= ~(1 << 4);//yyyyyyyyyyyyyy
 	unsigned char shifted_x = x << 5;//меняююююююююююю
-	unsigned char shifted_y = y >> 4;
+	unsigned char shifted_y = y >> 4;//yaaaaaaaaaaa
 	std::cout << "Исходное значения: " << "x = " << (int)x << ", y = " << (int)y << std::endl;
 	std::cout << "Преобразованные значения: " << "x = " << (int)shifted_x << ", y = " << (int)shifted_y << std::endl;//ee
 	return 0;//зашла в кооод
