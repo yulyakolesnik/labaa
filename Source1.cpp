@@ -9,7 +9,7 @@ int main()
 	std::cin >> y;
 	x |= (1 << 1);
 	y &= ~(1 << 3);
-	y &= ~(1 << 4);
+	y &= ~(1 << 4);//ляляля
 	unsigned char shifted_x = x << 5;
 	unsigned char shifted_y = y >> 4;//yaaaaaaииииииииииииии
 	std::cout << "Исходное значения: " << "x = " << (int)x << ", y = " << (int)y << std::endl;
